@@ -1,0 +1,31 @@
+cachetools==4.2.0
+certifi==2020.12.5
+cffi==1.14.4
+chardet==3.0.4
+google-api-core==1.24.1
+google-auth==1.24.0
+google-cloud-core==1.5.0
+google-cloud-storage==1.35.0
+google-crc32c==1.1.0
+google-resumable-media==1.2.0
+googleapis-common-protos==1.52.0
+idna==2.10
+protobuf==3.14.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyOpenSSL==19.0.0
+PySocks @ file:///tmp/build/80754af9/pysocks_1594394576006/work
+pytz==2020.4
+PyYAML==5.3.1
+requests @ file:///tmp/build/80754af9/requests_1606691187061/work
+rsa==4.6
+ruamel-yaml==0.15.87
+six @ file:///tmp/build/80754af9/six_1605205313296/work
+soupsieve==2.1
+tqdm @ file:///tmp/build/80754af9/tqdm_1607369919789/work
+typing-extensions==3.7.4.3
+typing-inspect==0.6.0
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+Werkzeug==1.0.1
